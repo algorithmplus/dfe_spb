@@ -1,4 +1,4 @@
-[
+data = [
  {
    "FIELD1": "EstablishmentName",
    "FIELD2": "Postcode"
