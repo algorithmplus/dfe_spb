@@ -1,4 +1,4 @@
-  <?
+  <?php
   array (
   'establishments' => 
   array (
