@@ -1,7 +1,4 @@
 '{
-   "establishments" : [
- 
- {
    "EstablishmentName": "The Starship Children's Centre",
    "Postcode": "CB23 8DY"
  },
@@ -119992,7 +119989,6 @@
  {
    "EstablishmentName": "Redhill High School",
    "Postcode": "SA66 7PN"
- }
-]}'
+ }'
 
 
