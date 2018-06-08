@@ -1,6 +1,5 @@
 
-  array (
-  'establishments' => 
+ $establishments = array (
   array (
     0 => 
     array (
