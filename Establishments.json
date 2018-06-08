@@ -1,8 +1,6 @@
-{"establishments" = [
- {
-   "EstablishmentName": "EstablishmentName",
-   "Postcode": "Postcode"
- },
+{
+   "establishments" : [
+ 
  {
    "EstablishmentName": "The Starship Children's Centre",
    "Postcode": "CB23 8DY"
